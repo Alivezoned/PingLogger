@@ -1,0 +1,8 @@
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\InternetDiagnose\InternetDiagnose\bin\Debug\InternetDiagnose.exe.config
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\InternetDiagnose\InternetDiagnose\bin\Debug\InternetDiagnose.exe
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\InternetDiagnose\InternetDiagnose\bin\Debug\InternetDiagnose.pdb
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\InternetDiagnose\InternetDiagnose\obj\Debug\InternetDiagnose.Form1.resources
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\InternetDiagnose\InternetDiagnose\obj\Debug\InternetDiagnose.Properties.Resources.resources
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\InternetDiagnose\InternetDiagnose\obj\Debug\InternetDiagnose.csproj.GenerateResource.Cache
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\InternetDiagnose\InternetDiagnose\obj\Debug\InternetDiagnose.exe
+C:\Users\DJAD\Documents\Visual Studio 2012\Projects\InternetDiagnose\InternetDiagnose\obj\Debug\InternetDiagnose.pdb
